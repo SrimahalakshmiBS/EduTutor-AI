@@ -1,4 +1,4 @@
-# EduTutor AI 🎓🤖  
+# EduTutor AI
 Personalized Learning with Generative AI and LMS Integration  
 
 
@@ -27,10 +27,6 @@ The goal is to show how generative AI can support **personalized learning** and 
 ## 📂 Project Files  
 - `EduTutorAI.ipynb` → Google Colab notebook with full code.  
 - `README.md` → Project description and links.  
-
-
-## ▶️ Demo Video  
-👉 [Watch here](PASTE-YOUR-GOOGLE-DRIVE-LINK)  
 
 
 ## 🔗 How to Run the Project  
